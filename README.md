@@ -6,4 +6,4 @@ and a dynamic user interface that updates instantly as users send or receive
 messages. 
 
 
-There is a video of my project you can find it this repo, named as "Chat App.mp4".
+There is a video of my project you can find it in this repo, named as "Chat App.mp4".
