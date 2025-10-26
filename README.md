@@ -4,3 +4,6 @@ with others through a secure, interactive messaging interface. The system
 includes user management (sign-up, login, logout), real-time message exchanges, 
 and a dynamic user interface that updates instantly as users send or receive 
 messages. 
+
+
+There is a video of my project, named "Chat App.mp4".
